@@ -1,6 +1,6 @@
 import streamlit as st
 from transcriber import transcribe_audio
-from summarizer import summarize_text
+from sumarizer import summarize_text
 import tempfile
 
 st.title("🎙️ Audio to Blog Post Converter")

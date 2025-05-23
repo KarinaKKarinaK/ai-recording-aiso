@@ -1,4 +1,4 @@
-# 🎙️ Audio to Blog Post Converter
+# Audio to Blog Post Converter
 
 A Streamlit web app that turns long audio recordings into readable blog-style posts using Whisper for transcription and BART for summarization.
 
